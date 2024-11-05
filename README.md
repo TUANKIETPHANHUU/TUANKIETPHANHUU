@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! I'm Phan Huu Tuan Kiet</h1>
-<h3 align="center">Muc Tieu AI</h3>
+<h3 align="center">The goal is to become AI Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanhuutuankiet&label=Profile%20views&color=0e75b6&style=flat" alt="phanhuutuankiet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phanhuutuankiet" alt="phanhuutuankiet" /></a> </p>
